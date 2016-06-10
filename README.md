@@ -14,5 +14,5 @@ Record your desktop video (I use https://en.wikipedia.org/wiki/RecordMyDesktop) 
 ./make_ani.sh input.ogv
 ```
 
-This will output input.ogv.out.gif. *WARNING*: It will delete the input
+This will output `input.ogv.out.gif`. *WARNING*: It will delete the input
 file!
